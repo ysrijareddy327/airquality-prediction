@@ -1,0 +1,1 @@
+the air quality prediction is developed by the decision tree method incresased the accuracy 97 % it invloves machine learning algorithm implemented by the python involves the dataset air pollution dataset
